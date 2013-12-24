@@ -3,6 +3,10 @@
   * Image Synthesis in Go
   * 12/24/2013
   *
+  * Exersise taken From: 
+  * A Tour of Go: Exercise: Images
+  * Slide #60
+  *
   **/
 
 
